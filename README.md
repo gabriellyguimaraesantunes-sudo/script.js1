@@ -1,1 +1,1 @@
-# script.js1
+# curso-1
